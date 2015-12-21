@@ -8,7 +8,7 @@
   "Lines_Inseted": "16",
   "Lines_Deleted": "0",
   "CommitParent": "219f13c2d8704f92378e0e0489a15b61d80942d4",
-  "Classification": "",
+  "Classification": "Bug",
   "KeywordsTitle": "add, fixed, fail",
   "Description": "add-fixes, failed, ERROR,logs",
   "KeywordsCommit": "before add fixed , allow,  will fail, due to, will be created,TypeError, will be reported.\n",
