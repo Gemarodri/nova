@@ -8,7 +8,7 @@
   "Lines_Inseted": "4",
   "Lines_Deleted": "0",
   "CommitParent": "5f65637dfb54491c9ed0b73cdbb301db5f39fef3",
-  "Classification": "",
+  "Classification": "Bug",
   "KeywordsTitle": "exceptions, no body",
   "Description": "logs, warning",
   "KeywordsCommit": "deletion, does not exist,",
