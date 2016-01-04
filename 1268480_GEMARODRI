@@ -1,0 +1,15 @@
+{
+  "Launchpad": "https://bugs.launchpad.net/bugs/1268480",
+  "Id": "1268480",
+  "Gerrit": "https://review.openstack.org/67464",
+  "IdGerrit": "67464",
+  "IdCommit": "d5e8f1af673dcf9e0bb543dcd9e4910c2bdd2384",
+  "Files": [],
+  "Lines_Inseted": 0,
+  "Lines_Deleted": 0,
+  "Classification": "Bug",
+  "KeywordsTitle": "",
+  "Description": "",
+  "KeywordsCommit": "",
+  "Comments": ""
+}
